@@ -1,2 +1,2 @@
 # TODO
-TODO_list_with_python_flask
+Followed a tutorial on youtube on learning flask
